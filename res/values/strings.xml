@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OOprojectBlocks</string>
+    <string name="play_button">Play</string>
+    <string name="billboard_button">Billboard</string>
+    <string name="setting_button">Setting</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="change_password">Change</string>
+    <string name="bgm">music: </string>
+    <string name="sound">sound: </string>
+    <string name="color_blind">color blind: </string>
+    <string name="id">id</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="classic_button">Classic</string>
+    <string name="special_button">Special</string>
+    <string name="duel_button">Duel</string>
+    <string name="start_button">Start</string>
+    <string name="logout_button">Log out</string>
+</resources>
